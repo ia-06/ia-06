@@ -1,9 +1,8 @@
 ## Hi there.
 
-<img width="1200" height="300" alt="ia06 banner" src="https://github.com/user-attachments/assets/a605b9e7-6867-47bc-a3b4-4d760d66bafc" />
+<img width="1200" height="300" alt="ia06 banner" src="https://github.com/user-attachments/assets/190d1de4-0939-4d3b-b23a-36a579e88fe7" />
 
-
-My name is Imran Akhtar. I am currently studying B.Sc Data Science in Calcutta University while running a business on the side.
+<br>My name is Imran Akhtar. I am currently studying B.Sc Data Science in Calcutta University while running a business on the side.
 
 I like being in touch with modern tech related tools and UI/UX design.
 Currently growing my business while also learning coding skills that will help me develop some web apps and services.
