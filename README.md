@@ -14,4 +14,4 @@ Currently growing my business while also learning coding skills that will help m
 - Ask me about AI & how I wish to use it for building Web Apps.
 - How to reach me: ia_._06 on Instagram & Discord
 - Pronouns: He/Him
-- Fun fact: I feel older compared to people my age.
+- Fun fact: I like cats.
